@@ -1,6 +1,7 @@
 # React-Project
-N&M-Digital - Store of video games
 
+N&M-Digital - Store of video games
+------------------------------------------------------------------------------------------------------------------
 Created by : Noor zitonya & Mahmood Mahameed
 ------------------------------------------------------------------------------------------------------------------
 - First page when you start the app
@@ -14,4 +15,6 @@ Created by : Noor zitonya & Mahmood Mahameed
 - This is the playstation category and what inside of it.
 - we can see in every item there is three buttons (view,edit,delete).
 ![react3](https://user-images.githubusercontent.com/106157326/218796715-2e2bbdd5-6a6e-44d8-8923-810fb931cd04.png)
-
+------------------------------------------------------------------------------------------------------------------
+- 
+![react4](https://user-images.githubusercontent.com/106157326/218798933-e627d2a4-b339-44b0-9690-a1f1cf56fccb.png)
