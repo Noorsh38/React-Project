@@ -16,5 +16,9 @@ Created by : Noor zitonya & Mahmood Mahameed
 - we can see in every item there is three buttons (view,edit,delete).
 ![react3](https://user-images.githubusercontent.com/106157326/218796715-2e2bbdd5-6a6e-44d8-8923-810fb931cd04.png)
 ------------------------------------------------------------------------------------------------------------------
-- 
+- here when we press the edit button
+- we can change any thing like the name,price,img,inStock.  
 ![react4](https://user-images.githubusercontent.com/106157326/218798933-e627d2a4-b339-44b0-9690-a1f1cf56fccb.png)
+------------------------------------------------------------------------------------------------------------------
+- this page for adding new items to the store by fill all the details of the item and select the category we want to add this item on it 
+![react5](https://user-images.githubusercontent.com/106157326/218800699-0e43b5cf-55e3-45e3-90d3-8dddb3322f59.png)
