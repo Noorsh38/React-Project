@@ -2,8 +2,6 @@
 
 N&M-Digital - Store of video games
 ------------------------------------------------------------------------------------------------------------------
-Created by : Noor zitonya & Mahmood Mahameed
-------------------------------------------------------------------------------------------------------------------
 - First page when you start the app
 ![react1](https://user-images.githubusercontent.com/106157326/218789662-b72bb14c-040a-42e0-b999-9aa41ab9a424.png)
 
@@ -22,3 +20,6 @@ Created by : Noor zitonya & Mahmood Mahameed
 ------------------------------------------------------------------------------------------------------------------
 - this page for adding new items to the store by fill all the details of the item and select the category we want to add this item on it 
 ![react5](https://user-images.githubusercontent.com/106157326/218800699-0e43b5cf-55e3-45e3-90d3-8dddb3322f59.png)
+------------------------------------------------------------------------------------------------------------------
+Created by : Noor zitonya & Mahmood Mahameed
+------------------------------------------------------------------------------------------------------------------
